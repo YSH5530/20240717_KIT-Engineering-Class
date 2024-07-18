@@ -10,7 +10,7 @@
 
 
 
-• Arduino code
+• Arduino code(업로드 예정)
 ==> Practice.ino
 
 • Arduino driver file
