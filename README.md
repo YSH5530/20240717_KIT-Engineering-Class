@@ -3,7 +3,7 @@
 
 
 • 자료 다운받는 방법
-==> <>Code 클릭
+==> <>Code 클릭(Green button)
 ==> Download ZIP 클릭
 ==> 압축 풀기
 
