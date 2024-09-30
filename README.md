@@ -3,14 +3,15 @@
 
 
 • 자료 다운받는 방법
-==> KIT공학교실.pdf 클릭
-==> download raw file 클릭 (우측 상단 아이콘)
+==> <>Code 클릭
+==> Download ZIP 클릭
+==> 압축 풀기
 
 
 
 
 
-• Arduino code(업로드 예정)
+• Arduino code
 ==> Practice.ino
 
 • Arduino driver file
